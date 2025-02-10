@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dafne.
+## Hi there! 👋 I'm Natalia.
 
 Welcome to my GitHub profile! I'm a **multidisciplinary professional** with a strong background in **localization, automation, and technology**. Currently, I am the **Customer Support Lead** for an innovative interpreter scheduling software, working on improving **documentation, onboarding, and user support**.
 
